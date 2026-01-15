@@ -1,0 +1,7 @@
+{
+  "name": "El Patrón Poster Creator",
+  "description": "Create high-quality cinematic posters for WhatsApp by blending branding, space themes, and product imagery using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
